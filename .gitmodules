@@ -1,3 +1,0 @@
-[submodule "helloworld_submodule"]
-	path = helloworld_submodule
-	url = https://github.com/weaving/helloworld_submodule.git
